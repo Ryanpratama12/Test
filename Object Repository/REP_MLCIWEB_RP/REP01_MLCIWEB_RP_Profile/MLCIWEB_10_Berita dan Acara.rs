@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MLCIWEB_10_Berita dan Acara</name>
+   <tag></tag>
+   <elementGuidId>d472d3c8-ba26-4b8a-bf5f-9ef5cb6b8e27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sfHover > #main-menu > li.sfHover > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='main-menu']/li[2]/a)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>082ea044-bfd1-43b7-b7e0-8c5899b77ecc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/companys-activity-news-and-program</value>
+      <webElementGuid>367e2434-9c99-4b7a-acaf-f8e3bc9f71bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berita dan Acara</value>
+      <webElementGuid>e4a740dd-d151-4859-a397-6824c2c0d78a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/ul[1]/li[@class=&quot;sfHover&quot;]/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/a[1]</value>
+      <webElementGuid>fefe3707-e3de-48ce-bee8-0e2ddec82be6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='main-menu']/li[2]/a)[2]</value>
+      <webElementGuid>002c1a8f-8727-473d-8f3b-c423c33437e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Berita dan Acara')]</value>
+      <webElementGuid>4e7d0e88-64e9-4949-a550-c4967aac24f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggung Jawab Sosial Lingkungan'])[1]/following::a[1]</value>
+      <webElementGuid>2baefbb0-2f9c-46cf-9dcd-b3bc08e5b49b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tata Kelola'])[1]/following::a[3]</value>
+      <webElementGuid>7912d6af-ddb7-4088-9100-db1b8fd01687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor Pusat'])[1]/preceding::a[2]</value>
+      <webElementGuid>de7e14bb-4dfd-4fa4-ab5e-d30f5098d9a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor Cabang'])[1]/preceding::a[3]</value>
+      <webElementGuid>f3286b1f-24f6-4dc7-8272-5fe46e1946a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Berita dan Acara']/parent::*</value>
+      <webElementGuid>03b9f16c-f723-40fb-b28d-07f6fd290244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/companys-activity-news-and-program')]</value>
+      <webElementGuid>a59a5a9f-72df-4ed4-b26c-0c9f882bc11f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/li[2]/a</value>
+      <webElementGuid>27d52c65-86e1-432e-ae36-eeb5e3f67b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/companys-activity-news-and-program' and (text() = 'Berita dan Acara' or . = 'Berita dan Acara')]</value>
+      <webElementGuid>d69faf8d-3d1b-4cf1-a7d5-736baf0471cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

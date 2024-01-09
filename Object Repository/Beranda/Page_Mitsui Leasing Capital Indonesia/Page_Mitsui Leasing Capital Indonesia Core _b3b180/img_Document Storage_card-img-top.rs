@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Document Storage_card-img-top</name>
+   <tag></tag>
+   <elementGuidId>382dcdd4-4c6f-47f9-9616-175dcd0add1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div[2]/div[6]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>46e7c524-ef7c-478d-95f9-2aac831c1383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-img-top</value>
+      <webElementGuid>9f68979d-ca2c-481b-bfd1-6e3ef1993268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/img/modul/EA.png</value>
+      <webElementGuid>1b413f1a-7481-4beb-a458-268b27a66eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>100px</value>
+      <webElementGuid>73ecc6aa-c948-4005-821d-a0c623664130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;divcard&quot;]/div[@class=&quot;card h-100&quot;]/a[@class=&quot;h-100&quot;]/img[@class=&quot;card-img-top&quot;]</value>
+      <webElementGuid>c10d4371-03aa-4f4d-b974-66aee0334ef8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div[2]/div[6]/div/a/img</value>
+      <webElementGuid>dff1e1dc-3cac-43d8-8020-be26722ebd2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Storage'])[1]/following::img[1]</value>
+      <webElementGuid>9619b382-4da0-478b-a741-679543b24e6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Finance'])[1]/following::img[2]</value>
+      <webElementGuid>63d7a3d9-3178-4b53-bc1c-0a20f2dfc32e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Approval'])[1]/preceding::img[1]</value>
+      <webElementGuid>c28f3465-2338-4310-b94c-4ad50140ca0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance Accounting'])[1]/preceding::img[2]</value>
+      <webElementGuid>cb4025a3-2c91-4e6a-9057-979fc3bc8058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/a/img</value>
+      <webElementGuid>4326c07b-7267-4317-9da0-4b6407a27538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/img/modul/EA.png']</value>
+      <webElementGuid>c3a96052-4c28-45dd-bd78-efa9a29e0919</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

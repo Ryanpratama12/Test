@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Attachments_fa fa-file-o</name>
+   <tag></tag>
+   <elementGuidId>554e5148-bcb8-4cb6-aa0e-e9ef38544fa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-file-o</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tblx']/thead/tr[2]/th/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0624c6a9-0f0f-468d-841c-5f1a0c2040f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bdbc8eb4-d713-4f45-ad91-3f06e53a83ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-file-o</value>
+      <webElementGuid>15473b72-0a87-4061-886b-df64814a2c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblx&quot;)/thead[@class=&quot;thead-dark sticky-top&quot;]/tr[2]/th[1]/button[@class=&quot;btn-sm btn btn-info&quot;]/span[@class=&quot;fa fa-file-o&quot;]</value>
+      <webElementGuid>c1cf9eba-1aed-4565-9c9e-9b24aa93a99f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tblx']/thead/tr[2]/th/button/span</value>
+      <webElementGuid>aa9dc0cc-9421-4d25-8bba-3cdacde11d01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/button/span</value>
+      <webElementGuid>517726ba-4a06-4b2e-92f4-ff16d641c7c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

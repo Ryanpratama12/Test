@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_(500) Your Employee Profile Not Found (_105d6a</name>
+   <tag></tag>
+   <elementGuidId>3372d5c7-53a3-463e-a16a-af6c54d7c489</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.notifications</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='MLCI'])[1]/preceding::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c41f025-da54-48d2-8c0a-03926a05fdce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notifications</value>
+      <webElementGuid>89172832-5012-44a5-a40d-132c801ea033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×  (500) Your Employee Profile Not Found (Check V_EmployeePosition)</value>
+      <webElementGuid>4ffea7ab-33b7-4c4b-bdde-4b748a787ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[@class=&quot;notifications&quot;]</value>
+      <webElementGuid>9d109a42-951e-4c90-ac65-112a0060a207</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MLCI'])[1]/preceding::div[2]</value>
+      <webElementGuid>4f6666ac-45a0-4ee5-b735-ad11bd2eba7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>cd5f2082-8f55-4a7b-af5e-5bc0cef74f45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '×  (500) Your Employee Profile Not Found (Check V_EmployeePosition)' or . = '×  (500) Your Employee Profile Not Found (Check V_EmployeePosition)')]</value>
+      <webElementGuid>84351b9c-dd2a-45ec-aea8-6b2d0892187f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

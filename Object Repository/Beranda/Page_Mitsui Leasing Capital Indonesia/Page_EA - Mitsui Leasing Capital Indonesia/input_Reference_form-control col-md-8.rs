@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Reference_form-control col-md-8</name>
+   <tag></tag>
+   <elementGuidId>ae439318-8690-4240-992a-af8bebb79c55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.col-md-8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5f00699b-e3e6-479e-bc7d-6b5f6c5852f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>efba4607-e437-4ca5-8e11-b92bf2d32fa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control col-md-8</value>
+      <webElementGuid>e90e05dc-19ed-46bb-ae5e-ed45ea6be27c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;memodetail&quot;]/div[@id=&quot;content&quot;]/div[@class=&quot;card shadow&quot;]/div[2]/div[@class=&quot;pagelayout&quot;]/div[@id=&quot;content&quot;]/div[@class=&quot;card shadow&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-inline&quot;]/input[@class=&quot;form-control col-md-8&quot;]</value>
+      <webElementGuid>686836b7-d33f-4add-bedc-48a3dcd6db02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>3316520c-ec82-40ef-a0cb-7c19e553a10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div[2]/input</value>
+      <webElementGuid>28b8136b-b45d-4a8e-b142-c29c5ae1f850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>a03c1227-03f5-4117-99c5-f6cdc4bb9cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>8c0d67e0-b0ae-4088-9943-503e575998c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

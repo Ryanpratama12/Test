@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Attachments_btn-sm btn btn-info</name>
+   <tag></tag>
+   <elementGuidId>274238c8-30e9-457e-b8f5-f41f5c207257</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-sm.btn.btn-info</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tblx']/thead/tr[2]/th/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cc5c7b9c-3d0b-4178-9936-12e37a11ba32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Create New Entry</value>
+      <webElementGuid>c337958b-52b8-4ab6-8dc9-cc4cf2420ad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-sm btn btn-info</value>
+      <webElementGuid>9b1318bd-493f-4376-ad7e-9ef8ac79b6c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblx&quot;)/thead[@class=&quot;thead-dark sticky-top&quot;]/tr[2]/th[1]/button[@class=&quot;btn-sm btn btn-info&quot;]</value>
+      <webElementGuid>0b8e40d8-23c3-4c61-afde-834ff0c48d83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tblx']/thead/tr[2]/th/button</value>
+      <webElementGuid>8a9e9736-f93f-4a9e-b579-0825ec990b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachments'])[1]/following::button[1]</value>
+      <webElementGuid>7f0e9435-dcb9-446b-b95d-5c2df5ac9e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No.'])[1]/preceding::button[1]</value>
+      <webElementGuid>ffd3ded3-e7b2-47eb-b13d-eacf82aaa623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/preceding::button[1]</value>
+      <webElementGuid>fb5c84d5-8b5a-46bf-9504-f260b37c66ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/button</value>
+      <webElementGuid>b9ebc7b1-f445-4edf-a12c-547afe647995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Create New Entry']</value>
+      <webElementGuid>f909457b-8587-426d-a723-c56748f0d2ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
