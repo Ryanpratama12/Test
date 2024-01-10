@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
-WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP02_MLCIWEB_RP_Produk/MLCIWEB_01_Produk'))
+WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP05_MLCIWEB_RP_Karir/MLCIWEB_01_KARIR'))
 
 WebUI.delay(3)
 
-WebUI.takeFullPageScreenshot('D:/Ryan/Katalon/Web MLCI/2.Produk/1.Produk.jpg')
+WebUI.takeFullPageScreenshot('D:/Ryan/Katalon/Web MLCI/5.Karir/1.Karir.jpg')
 
 WebUI.closeBrowser()
 

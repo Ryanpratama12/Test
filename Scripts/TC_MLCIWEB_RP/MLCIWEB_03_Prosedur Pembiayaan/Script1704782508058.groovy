@@ -25,33 +25,65 @@ WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Pr
 
 WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_02_Cara Pembayaran Angsuran Pembiayaan'))
 
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/Ryan/Katalon/Web MLCI/3.Prosedur Pembiayaan/1.Prosedur Pembiayaan.jpg')
+
 WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_01_Prosedur Pembiayaan'))
 
 WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_03_Persyaratan Kredit'))
 
-WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_01_Prosedur Pembiayaan'))
+WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/a_Suku Bunga'))
-
-WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_01_Prosedur Pembiayaan'))
-
-WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/a_Simulasi Kredit'))
+WebUI.takeFullPageScreenshot('D:/Ryan/Katalon/Web MLCI/3.Prosedur Pembiayaan/2.Persyaratan Kredit.jpg')
 
 WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_01_Prosedur Pembiayaan'))
 
-WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/a_Daftar Rekanan Asuransi'))
+WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_04_Suku Bunga'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/Ryan/Katalon/Web MLCI/3.Prosedur Pembiayaan/3.Suku Bunga.jpg')
 
 WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_01_Prosedur Pembiayaan'))
 
-WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/a_Aplikasi Kredit'))
+WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_05_Simulasi Kredit'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/Ryan/Katalon/Web MLCI/3.Prosedur Pembiayaan/4.Simulasi Kredit.jpg')
 
 WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_01_Prosedur Pembiayaan'))
 
-WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/a_Dokumen Persyaratan Pengambilan BPKB'))
+WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_06_Daftar Rekanan Asuransi'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/Ryan/Katalon/Web MLCI/3.Prosedur Pembiayaan/5.Dafra Rekanan Asuransi.jpg')
 
 WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_01_Prosedur Pembiayaan'))
 
-WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/a_Formulir Permohonan Pengecekan Data'))
+WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_07_Aplikasi Kredit'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/Ryan/Katalon/Web MLCI/3.Prosedur Pembiayaan/6.Aplikasi Kredit.jpg')
+
+WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_01_Prosedur Pembiayaan'))
+
+WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_08_Dokumen Persyaratan Pengambilan BPKB'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/Ryan/Katalon/Web MLCI/3.Prosedur Pembiayaan/7.Persyaratan Pengambilan BPKB.jpg')
+
+WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_01_Prosedur Pembiayaan'))
+
+WebUI.click(findTestObject('Object Repository/REP_MLCIWEB_RP/REP03_MLCIWEB_RP_Prosedur Pembiayaan/MLCIWEB_09_Formulir Permohonan Pengecekan Data'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('D:/Ryan/Katalon/Web MLCI/3.Prosedur Pembiayaan/8.Formulir Permohonan Pengecekan Data.jpg')
 
 WebUI.closeBrowser()
 
